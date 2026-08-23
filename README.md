@@ -209,27 +209,27 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-
-<p>
+<p align="center">
   <img
-    width="50%"
-    src="https://streak-stats.demolab.com/?user=GURU075"
-    alt="Gururaj Yadav GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=GURU075&show_icons=true&theme=github_dark"
+    alt="Gururaj Yadav GitHub Stats"
   />
 </p>
 
-<p>
+<p align="center">
   <img
-    width="50%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURU075&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GURU075&layout=compact&theme=github_dark"
     alt="Gururaj Yadav Top Languages"
   />
 </p>
 
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=GURU075&theme=github-dark-blue"
+    alt="Gururaj Yadav GitHub Streak"
+  />
+</p>
 
 <p align="center">
   <b>Keep learning. Keep building. Keep improving. 🚀</b>
 </p>
-
